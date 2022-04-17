@@ -1,0 +1,32 @@
+#####
+Easy
+#####
+Easy
+Range: 10
+Moves: 20
+Number of Suits: 1
+Default Suits: @
+#####
+Medium
+Range: 10
+Moves: 40
+Number of Suits: 2
+Default Suits: @ #
+#####
+Hard
+Range: 13
+Moves: 55
+Number of Suits: 3
+Default Suits: @ # $
+#####
+Legendary
+Range: 13
+Moves: 110
+Number of Suits: 4
+Default Suits: @ # $ %
+#####
+Custom
+Range: 10
+Moves: 20
+Number of Suits: 1
+Default Suits: $
